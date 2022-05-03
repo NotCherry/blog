@@ -1,0 +1,4 @@
+beautifulsoup4==4.10.0
+python-frontmatter==1.0.0
+markdown==3.3.6
+libsass===0.21.0
